@@ -1,0 +1,8 @@
+name: NekoPunchAll
+version: ${project.version}
+main: moe.nekochan.punchall.PunchAll
+commands:
+  nekopunch:
+    description: NekoPunchAllの設定をするにゃ！
+    usage: /<command> <subcommand> <args...>
+    default: true

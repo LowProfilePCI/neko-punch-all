@@ -1,0 +1,9 @@
+prefix: "\n"
+messages: 
+  f22392ce-8d7f-4109-a4a3-23fe6d921e28:
+    body: "このサーバーは現在めんてにゃんす中にゃ(*- -)(*_ _)ペコリ"
+    weight: 2
+  63d2c34b-7820-4e00-8d26-d803e61cc380:
+    body: "<player>にゃんおはにゃ！\n今メンテナンス中にゃ..."
+    weight: 1
+suffix: "\n§b( ˘ω˘)ｽﾔｧ§r"
